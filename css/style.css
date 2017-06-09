@@ -86,3 +86,32 @@ army green: 41521F;
 	font-size: 55px;
 	padding: 10px;
 }
+.sixth{
+	background-color: #A89F68;
+	padding: 30px;
+}
+.negrita{
+	font-weight: bolder;
+}
+.chico{
+	font-size: 12px;
+	font-weight: normal;
+	margin-top: 10px;
+	position: absolute;
+}
+.grande{
+	font-size: 60px;
+	font-weight: normal;
+}
+.normal{
+	font-weight: normal;
+}
+.linea{
+	border-bottom: 1px solid white;
+	text-align: center;
+	padding: 10px;
+}
+.espacio{
+	padding: 10px;
+}
+
