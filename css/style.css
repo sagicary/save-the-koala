@@ -27,6 +27,10 @@ army green: 41521F;
 	color: white;
 	font-weight: bolder;
 }
+.verde{
+	color: #41521F;
+	font-weight: bolder;
+}
 .caja1{
 	margin-top: 100px;
 	padding: 70px;
@@ -54,4 +58,12 @@ army green: 41521F;
 .cont-der{
 	padding: 30px;
 	margin-top: 50px;
+}
+.third{
+	background-color: #A89F68;
+	padding: 50px;
+}
+.imagen2{
+	width: 100%;
+	border: 7px solid white;
 }
