@@ -51,6 +51,7 @@ army green: 41521F;
 }
 .cafe{
 	color:#A89F68;
+	font-weight: bolder;
 }
 .cont-izq{
 	padding: 30px;
@@ -74,4 +75,14 @@ army green: 41521F;
 	background-size: cover;
 	background-position: center center;
 	padding: 30px;
+}
+.fifth{
+	padding: 30px;
+}
+.espacio{
+	padding-bottom: 30px;
+}
+.icon{
+	font-size: 55px;
+	padding: 10px;
 }
